@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lucca Meurer 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor Back-End Java | Spring Boot | Angular | Arquitetura de Software
+  Desenvolvedor Full-Stack | Java | Spring Boot | Arquitetura de Software | Amalista de Dados
 </h3>
 
 ---
