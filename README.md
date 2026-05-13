@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Lucca Meurer 👋</h1>
 
 <h3 align="center">
-  Desenvolvedor Full-Stack | Java | Spring Boot | Arquitetura de Software | Amalista de Dados
+  Desenvolvedor Full-Stack | Java | Spring Boot | Arquitetura de Software | Analista de Dados
 </h3>
 
 ---
@@ -99,5 +99,5 @@
 <br>
 
 <div align="center">
-  <img src="https://i.imgur.com/A6uiN0R.gif" width="100%" />
+  <img src="./assets/GifMarioGitHub.gif" width="100%" />
 </div>
