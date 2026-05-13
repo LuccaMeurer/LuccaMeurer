@@ -74,3 +74,30 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" width="45"/>
 </div>
+
+
+---
+
+<h2 align="center">My Contacts</h2>
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/luccameurer/" target="_blank">
+  <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:luccameurer1@gmail.com">
+  <img src="https://img.shields.io/badge/EMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://wa.me/5561981069448" target="_blank">
+  <img src="https://img.shields.io/badge/WHATSAPP-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+</a>
+
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://i.imgur.com/A6uiN0R.gif" width="100%" />
+</div>
