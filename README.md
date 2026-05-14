@@ -131,3 +131,9 @@
 <div align="center">
   <img src="./assets/GifMarioGitHub.gif" width="100%" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
