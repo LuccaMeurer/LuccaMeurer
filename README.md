@@ -22,14 +22,6 @@
 
 ---
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuccaMeurer&show_icons=true&theme=github_dark&hide_border=false&count_private=true" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuccaMeurer&layout=compact&theme=github_dark&hide_border=false" />
-
-</div>
-
 <br>
 
 <div align="center">
