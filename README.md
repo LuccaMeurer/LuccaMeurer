@@ -6,22 +6,6 @@
 
 ---
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=LuccaMeurer&theme=github-dark-blue&hide_border=true" />
-
-</div>
-
----
-
-<h1 align="center">Olá, eu sou Lucca Meurer 👋</h1>
-
-<h3 align="center">
-  Desenvolvedor Full-Stack | Java | Spring Boot | Arquitetura de Software | Analista de Dados
-</h3>
-
----
-
 <br>
 
 <div align="center">
