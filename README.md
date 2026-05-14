@@ -46,8 +46,6 @@
 
 <h2 align="center">My Stacks</h2>
 
-<h2 align="center">My Stacks</h2>
-
 <h4 align="center">Backend</h4>
 
 <div align="center">
