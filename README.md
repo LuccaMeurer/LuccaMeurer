@@ -1,8 +1,8 @@
-<h1 align="center">Olá, eu sou Lucca Meurer 👋</h1>
+<div align="center">
+  <img src="./assets/banner-github.png" width="100%" />
+</div>
 
-<h3 align="center">
-  Desenvolvedor Full-Stack | Java | Spring Boot | Arquitetura de Software | Analista de Dados
-</h3>
+<br>
 
 ---
 
