@@ -123,6 +123,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="45"/>
 </div>
 
+---
+
+<h3 align="center">👨‍💻 About Me</h3>
+
+<p align="center">
+  Desenvolvedor Full-Stack com foco em Java, Spring Boot, arquitetura de software e análise de dados.
+  Tenho interesse em sistemas escaláveis, boas práticas, clean code, performance e soluções que geram impacto real.
+</p>
 
 ---
 
