@@ -48,6 +48,14 @@
 
 ---
 
+<h3 align="center">📈 Activity Graph</h3>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=LuccaMeurer&theme=github-compact&hide_border=true" />
+</div>
+
+---
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
@@ -122,15 +130,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-original.svg" width="45"/>
 </div>
-
----
-
-<h3 align="center">👨‍💻 About Me</h3>
-
-<p align="center">
-  Desenvolvedor Full-Stack com foco em Java, Spring Boot, arquitetura de software e análise de dados.
-  Tenho interesse em sistemas escaláveis, boas práticas, clean code, performance e soluções que geram impacto real.
-</p>
 
 ---
 
