@@ -50,6 +50,14 @@
 
 ---
 
+<h2 align="center">GitHub Trophies</h2>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=LuccaMeurer&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+</div>
+
+---
+
 <h2 align="center">My Stacks</h2>
 
 <h4 align="center">Backend</h4>
