@@ -44,6 +44,12 @@
 
 ---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+---
+
 <h2 align="center">My Stacks</h2>
 
 <h4 align="center">Backend</h4>
@@ -139,7 +145,3 @@
 </div>
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
