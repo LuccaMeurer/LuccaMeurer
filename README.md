@@ -52,16 +52,16 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
----
-
 <h2 align="center">GitHub Trophies</h2>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=LuccaMeurer&theme=radical&no-frame=true&no-bg=true&margin-w=4&margin-h=4" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/LuccaMeurer/LuccaMeurer/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
 ---
