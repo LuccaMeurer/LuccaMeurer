@@ -14,6 +14,10 @@
 
 </div>
 
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=800&lines=Desenvolvedor+Full-Stack;Java+%7C+Spring+Boot+%7C+Angular;Arquitetura+de+Software;Analista+de+Dados" />
+</div>
+
 <br>
 
 <div align="center">
